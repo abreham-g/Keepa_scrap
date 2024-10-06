@@ -26,7 +26,7 @@ ASINS = [
 ]
 
 async def main():
-    api_key = 'ftl9rmbprserlkqios5sv3md5bfrf5jpu2uahr7k6r854i78o56h939i2pcpv8r0'  
+    api_key = '*****'  
     keepa_api = KeepaAPI(api_key)
     try:
         product_data = keepa_api.featch_product_data(ASINS)
