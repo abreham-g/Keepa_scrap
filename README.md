@@ -13,5 +13,5 @@ This project fetches product data from the Keepa API and processes it for analys
 cs
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone git clone https://github.com/abreham-g/Keepa_scrap.git
    cd scrap_keepa
